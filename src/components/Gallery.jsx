@@ -13,7 +13,7 @@ import img10 from "../assets/img10.jpg";
 import img11 from "../assets/img11.jpg";
 import img12 from "../assets/img12.jpg";
 import img13 from "../assets/img13.jpg";
-import img14 from "../assets/img14.jpg";
+import img14 from "../assets/img14.JPG";
 import img15 from "../assets/img15.jpg";
 import img16 from "../assets/img16.jpg";
 
